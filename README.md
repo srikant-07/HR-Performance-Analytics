@@ -74,5 +74,3 @@ Data-driven promotion analysis helps organizations:
 - Build a stronger leadership pipeline
 
 ---
-
-## 📂 Project Structure
